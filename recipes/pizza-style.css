@@ -1,0 +1,13 @@
+* {
+    background-color:lightgrey;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.titles {
+    font-weight:bold;
+    color:lightcoral;
+}
+
+#maintitle {
+    font-size:70px;
+}
